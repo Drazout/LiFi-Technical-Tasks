@@ -1,5 +1,8 @@
 # LiFi-Technical-Tasks
 
+This is a repository linked to a technical assessment that can be found [here](https://calm-astronaut-281.notion.site/Data-Analyst-Technical-Assessment-Jivala-Gabriel-Touzard-6425d2a5f07648c1afdcb687687087de)
+
+
 This repository contains the following files and folders:
 
 ## Task 1
@@ -10,7 +13,7 @@ This repository contains the following files and folders:
 - `tables/`: Contains tables of filtered TX logs that may be suspicious.
 
 ## Task 2
-- [Task 2](https://www.notion.so/Task-2-Research-Skills-64c26966f3404b4ea99d403dea8f8654): Research Skills
+- [Research Skills](https://calm-astronaut-281.notion.site/Task-2-Research-Skills-64c26966f3404b4ea99d403dea8f8654)
 
 ## Task 3-1
 - `task3-1.py`: Script for data analysis of the provided JSON file.
