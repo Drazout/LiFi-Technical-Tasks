@@ -14,7 +14,6 @@ LiFi-Technical-Tasks/
 └── Task 3-1/
     └── task3-1.py
 
-
 ## Task 1
 - `bungee.py`: This script fetches Bungee bridge logs with Ethereum as the source chain and saves them to `Bungee_TX_data.csv`.
 - `analyse.py`: Reads in the CSV, performs data analysis, and saves charts and tables.
