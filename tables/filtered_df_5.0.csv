@@ -1,0 +1,4 @@
+blockNumber,date,hour,minute,tokenName,token_amount,tokenPrice,dollar_volume
+19147028,2024-02-03,9,45,USD Coin,5.0,1.001,5.004999999999999
+19149265,2024-02-03,17,18,Wrapped Ether,5.0,2300.38,11501.900000000001
+19164882,2024-02-05,21,58,USD Coin,5.0,0.999949,4.999745

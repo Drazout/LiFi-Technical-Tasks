@@ -1,0 +1,5 @@
+blockNumber,date,hour,minute,tokenName,token_amount,tokenPrice,dollar_volume
+19146894,2024-02-03,9,19,Liquid staked Ether 2.0,1e-18,2313.89,2.3138900000000002e-15
+19147787,2024-02-03,12,19,Liquid staked Ether 2.0,1e-18,2306.33,2.30633e-15
+19154366,2024-02-04,10,30,Liquid staked Ether 2.0,1e-18,2301.7,2.3017e-15
+19158626,2024-02-05,0,52,Liquid staked Ether 2.0,1e-18,2282.15,2.2821500000000002e-15
